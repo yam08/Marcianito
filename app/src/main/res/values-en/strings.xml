@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_bienvenido">Wellcome</string>
+    <string name="app_boton_entrar">Get in</string>
+</resources>
